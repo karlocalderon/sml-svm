@@ -1,4 +1,12 @@
 
+#' -----
+#' Application of SVM to a real dataset
+#' Author: kjcalderon
+#' ...
+#' 
+#' This notebook applies SVM to a real dataset
+#' -----
+
 # Packages
 library(curl)
 library(caret)

@@ -1,11 +1,11 @@
 
 #' -----
-#' Linear Classifiers on Liearly Separable Data
-#' Author: kjcaldeon
+#' Linear Classifiers on Linearly Separable Data
+#' Author: kjcalderon
 #' ...
 #' 
 #' This notebook investigate how the linear classifiers behave on perfectly 
-#' liearly separable data. The classifiers that will be explored will are:
+#' linearly separable data. The classifiers that will be explored will are:
 #' (1) Logistic Regression, (2) LDA, and (3) SVM with a linear kernel
 #' -----
 
