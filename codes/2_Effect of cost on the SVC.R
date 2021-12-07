@@ -15,7 +15,7 @@ options(scipen=99)
 # URL <- url("https://hastie.su.domains/ElemStatLearn/datasets/ESL.mixture.rda")
 # load(URL)
 
-load("classificationExample.RData")
+load("data/classificationExample.RData")
 
 X[y==0, 1] <- X[y==0, 1] + 2.5
 
